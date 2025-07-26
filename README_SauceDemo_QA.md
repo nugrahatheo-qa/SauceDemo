@@ -12,10 +12,10 @@ This is a QA portfolio project for manual testing of the [SauceDemo](https://www
 ```
 SauceDemo-QA-Project/
 ├── README.md
-├── Test_Plan_SauceDemo.docx
-├── Test_Case_SauceDemo.xlsx
-├── Bug_Report_SauceDemo.xlsx
-├── Test_Summary_Report.docx
+├── Test_Plan_SauceDemo.pdf
+├── Test_Case_SauceDemo.pdf
+├── Bug_Report_SauceDemo.pdf
+├── Test_Summary_Report.pdf
 ├── Screenshots/
 ```
 

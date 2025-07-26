@@ -36,4 +36,4 @@ SauceDemo-QA-Project/
 
 ---
 
-Made with ❤️ by a QA enthusiast!
+2025 - Theo Nugraha

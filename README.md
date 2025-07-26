@@ -1,3 +1,5 @@
+![e-commerce](https://github.com/user-attachments/assets/8ba93e18-f314-4543-ac9c-86aaaad1bacf)
+
 🧪 **About the Project**
 
 Imagine a simple-looking e-commerce site — clean, minimal, and fast. But beneath the surface, there could be bugs waiting to disrupt the user experience. That’s where I come in, stepping into the role of a Manual QA Engineer.
